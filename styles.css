@@ -6,7 +6,7 @@ body {
 /* Image */
 pa img{
  display:inline-block;
- transform: rotateZ(-14deg) translatex(-176.54px) translatey(-2000.56px);
+ transform: rotateZ(-14deg) translatex(-100.54px) translatey(-2000.56px);
  perspective:0px;
  position:static;
  z-index:-10;
