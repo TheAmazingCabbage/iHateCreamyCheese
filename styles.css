@@ -3,3 +3,13 @@ body {
     background-image: linear-gradient(#ffe0e5, #ff2626);
     text-align: center;
   }
+/* Image */
+pa img{
+ display:inline-block;
+ transform: rotateZ(-14deg) translatex(-176.54px) translatey(-2068.56px);
+ perspective:0px;
+ position:static;
+ z-index:-10;
+}
+
+
